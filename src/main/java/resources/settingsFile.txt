@@ -1,0 +1,10 @@
+Score: 30 Time: 30 Targets: Target
+Score: 33 Time: 30 Targets: Monster
+Score: 23 Time: 30 Targets: Diamond
+Score: 13 Time: 30 Targets: Target
+Score: 34 Time: 30 Targets: Diamond
+Score: 26 Time: 30 Targets: Monster
+Score: 29 Time: 30 Targets: Bug
+Score: 35Time: 30Targets: Target
+Score: 33Time: 30Targets: Target
+Score: 0  Time: 30  Targets: Target
